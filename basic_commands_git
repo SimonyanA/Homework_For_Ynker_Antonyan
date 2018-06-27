@@ -1,0 +1,5 @@
+git add - add deskctp files from staging area
+git commit - added files from staging area, and waiting for add to repositori
+git push - add the file to repository
+git status -s - shows the corrent status of the file(s) 
+
