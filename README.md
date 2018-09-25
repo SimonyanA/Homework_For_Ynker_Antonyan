@@ -1,1 +1,0 @@
-# Homework_For_Ynker_Antonyan
